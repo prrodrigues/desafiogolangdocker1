@@ -1,1 +1,1 @@
-https://hub.docker.com/repositories/prodrigues
+docker pull prodrigues/fullcycle:latest
